@@ -12,6 +12,11 @@ In this repository, I will list the results (my homeworks and projects) in SI 33
 
 ## 2. CCP (Common Class Projects)
 
+1. HTML only: [jtc1246.github.io/ccp_html_w24/](https://jtc1246.github.io/ccp_html_w24/)
+2. Mobile: [jtc1246.github.io/ccp_mobile_w24/](https://jtc1246.github.io/ccp_mobile_w24/)
+3. Tablet: [jtc1246.github.io/ccp_tablet_w24/](https://jtc1246.github.io/ccp_tablet_w24/)
+4. Complete: [jtc1246.github.io/ccp_complete_w24/](https://jtc1246.github.io/ccp_complete_w24/)
+
 ## 3. Discussions
 
 1. Discussion 2: [jtc1246.github.io/339_ccp/](https://jtc1246.github.io/339_ccp/)
