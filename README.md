@@ -19,11 +19,12 @@ In this repository, I will list the results (my homeworks and projects) in SI 33
 
 ## 3. Discussions
 
-1. Discussion 2: [jtc1246.github.io/339_ccp/](https://jtc1246.github.io/339_ccp/)
-2. Discussion 9: [jtc1246.github.io/discussion9-form/](https://jtc1246.github.io/discussion9-form/)
-3. Discussion 10: [jtc1246.github.io/Discussion10_JS/travel.html](https://jtc1246.github.io/Discussion10_JS/travel.html)
-4. Discussion 11: [jtc1246.github.io/discussion11/](https://jtc1246.github.io/discussion11/)
-5. Discussion 13: [jtc1246.github.io/discussion13/challenge1.html](https://jtc1246.github.io/discussion13/challenge1.html)
+1. Discussion 1: [jtc1246.github.io/discussion1/](https://jtc1246.github.io/discussion1/)
+2. Discussion 2: [jtc1246.github.io/339_ccp/](https://jtc1246.github.io/339_ccp/)
+3. Discussion 9: [jtc1246.github.io/discussion9-form/](https://jtc1246.github.io/discussion9-form/)
+4. Discussion 10: [jtc1246.github.io/Discussion10_JS/travel.html](https://jtc1246.github.io/Discussion10_JS/travel.html)
+5. Discussion 11: [jtc1246.github.io/discussion11/](https://jtc1246.github.io/discussion11/)
+6. Discussion 13: [jtc1246.github.io/discussion13/challenge1.html](https://jtc1246.github.io/discussion13/challenge1.html)
 
 ## 4. Final Project
 
